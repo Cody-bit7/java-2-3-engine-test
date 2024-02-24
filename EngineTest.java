@@ -1,9 +1,7 @@
 import java.util.Scanner;
 
-public class EngineTest 
-{
-    public static void main(String[] args) 
-    {
+public class EngineTest {
+    public static void main(String[] args) {
         // Create your variables.    
         
         // Create a scanner object for the keyboard.
